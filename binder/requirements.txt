@@ -1,0 +1,14 @@
+jupyter-server-proxy
+pandas
+matplotlib
+neo4j
+py2neo
+notebook>=6.1.5
+jupyter_dashboards
+tornado
+ipython-cypher
+pygal
+plotly
+holoviews
+bokeh
+rise
